@@ -1,0 +1,6 @@
+framework module HermesNetwork {
+  umbrella header "HermesNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_NamePrism {
+  umbrella header "Pods-NamePrism-umbrella.h"
+
+  export *
+  module * { export * }
+}
